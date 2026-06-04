@@ -25,6 +25,6 @@ At this project the dataset GCB (Global Carbon Project) could provide us sobre d
 3. Run the analysis notebook sequentially.
 
 ---
-*This project is part of my data analysis portfolio.*
-Author: Fabrizio Ribeiro Pinto
+*This project is part of my data analysis portfolio.* /
+Author: Fabrizio Ribeiro Pinto /
 LinkedIn: www.linkedin.com/in/fabrizio-ribeiro-pinto
