@@ -19,6 +19,14 @@ At this project the dataset GCB (Global Carbon Project) could provide us sobre d
 - **Turning Point 2021:** Analysis of the post-pandemic economic rebound,. Using NumPy derivates was possibible to highlighting the record-breaking in CO2 emissions.
 - **Consumption Patterns:** A comparative analysis could show us that while some nations lead in total emissions (China), tohe can show significantly higher per capita emissions (lifestyle/efficiency). emphasizing the need for nuanced climate policy.
 
+### Visualizations:
+
+**Global Emissions Trend:**
+![Global Trend](global_emissions_trend.png)
+
+**Mean Country Comparasion (Per capita):**
+![Comparison](comparison_per_capita.png)
+
 ## How to Run
 1. Clone this repository.
 2. Ensure you have the `GCB2022v27` datasets in the data folder.
