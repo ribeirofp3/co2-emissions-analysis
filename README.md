@@ -25,7 +25,7 @@ At this project the dataset GCB (Global Carbon Project) could provide us sobre d
 ![Global Trend](global_emissions_trend.png)
 
 **Mean Country Comparasion (Per capita):**
-![Comparison](comparison_per_capita.png)
+![Comparison](comparison_per:capita.png)
 
 ## How to Run
 1. Clone this repository.
