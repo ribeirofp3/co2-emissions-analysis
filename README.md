@@ -22,10 +22,10 @@ At this project the dataset GCB (Global Carbon Project) could provide us sobre d
 ### Visualizations:
 
 **Global Emissions Trend:**
-![Global Trend](global_emissions_trend.png)
+![Global Trend](Graphs_Matplotlib.png/global_emissions_trend.png)
 
 **Mean Country Comparasion (Per capita):**
-![Comparison](comparison_per:capita.png)
+![Comparison](Graphs_Matplotlib.png/comparison_per:capita.png)
 
 ## How to Run
 1. Clone this repository.
